@@ -63,7 +63,7 @@ The project uses a student online-learning dataset containing information relate
 
 ---
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
 * **Python**
 * **Jupyter Notebook / Google Colab**
@@ -309,7 +309,7 @@ Student Engagement Data
 
 ---
 
-# 📏 Model Evaluation
+📏 Model Evaluation
 
 For regression models, the following metrics can be used:
 
@@ -328,7 +328,7 @@ For classification models:
 
 ---
 
-# 💡 Key Insights
+💡 Key Insights
 
 The project aims to identify insights such as:
 
@@ -344,7 +344,7 @@ The project aims to identify insights such as:
 
 ---
 
-# 📁 Project Structure
+📁 Project Structure
 
 ```text
 Comprehensive-Analysis-Online-Learning/
@@ -372,7 +372,7 @@ Comprehensive-Analysis-Online-Learning/
 
 ---
 
-# 🚀 How to Run the Project
+🚀 How to Run the Project
 
 ### 1. Clone the repository
 
@@ -410,7 +410,7 @@ Run the cells sequentially to reproduce the analysis.
 
 ---
 
-# 📦 Requirements
+📦 Requirements
 
 Example `requirements.txt`:
 
@@ -425,8 +425,7 @@ plotly
 ```
 
 ---
-
-# 📌 Future Enhancements
+📌 Future Enhancements
 
 The project can be extended with:
 
@@ -442,7 +441,7 @@ The project can be extended with:
 
 ---
 
-# 🎯 Applications
+🎯 Applications
 
 This analysis can be useful for:
 
@@ -455,7 +454,7 @@ This analysis can be useful for:
 
 ---
 
-# 📚 Learning Outcomes
+📚 Learning Outcomes
 
 Through this project, the following skills are demonstrated:
 
@@ -472,7 +471,7 @@ Through this project, the following skills are demonstrated:
 
 ---
 
-# 👩‍💻 Author 
+👩‍💻 Author 
 
 **Bapatla Bhagyavathi **
 
@@ -480,12 +479,12 @@ MCA Student | Computer Science | AI/ML & Data Analytics Enthusiast
 
 ---
 
-# ⭐ Acknowledgement
+⭐ Acknowledgement
 
 This project was developed for educational and analytical purposes to study online learning engagement and student performance using data-driven techniques.
 
 ---
 
-## 📜 License
+ 📜 License
 
 This project is available for educational and learning purposes. You may modify and use the code with appropriate attribution.
